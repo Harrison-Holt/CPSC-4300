@@ -1,1 +1,1 @@
-This repo is for all my code I completed in CPSC 4300- Applied Data Scoence
+This repo is for all the code I completed in CPSC 4300- Applied Data Science
